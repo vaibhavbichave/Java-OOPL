@@ -1,0 +1,204 @@
+1. Add Records
+2. Display Records
+3. Clear All Records
+4. Search Records
+5. Delete Records
+6. Update Records 
+7. Exit
+
+Enter your choice : 3
+
+
+All Records cleared successfully !
+
+====================================================
+
+1. Add Records
+2. Display Records
+3. Clear All Records
+4. Search Records
+5. Delete Records
+6. Update Records 
+7. Exit
+
+Enter your choice : 1
+
+
+Enter Student Name: vaibhav
+Student Id: 12
+Roll no: 12
+Address: pune
+Class: 10
+Marks : 489
+
+Records added successfully !
+
+Do you want to add more records ? (y/n) : y
+
+
+Enter Student Name: om
+Student Id: 34
+Roll no: 34
+Address: jalgaon
+Class: 9
+Marks : 479
+
+Records added successfully !
+
+Do you want to add more records ? (y/n) : y
+
+
+Enter Student Name: yash
+Student Id: 67
+Roll no: 67
+Address: Aurangabad
+Class: 9
+Marks : 467
+
+Records added successfully !
+
+Do you want to add more records ? (y/n) : y
+
+
+Enter Student Name: Diptesh
+Student Id: 76
+Roll no: 76
+Address: Dhule
+Class: 10
+Marks : 495
+
+Records added successfully !
+
+Do you want to add more records ? (y/n) : y
+
+
+Enter Student Name: Harsh
+Student Id: 39
+Roll no: 39
+Address: Satara
+Class: 11
+Marks : 481
+
+Records added successfully !
+
+Do you want to add more records ? (y/n) : n
+
+====================================================
+
+1. Add Records
+2. Display Records
+3. Clear All Records
+4. Search Records
+5. Delete Records
+6. Update Records 
+7. Exit
+
+Enter your choice : 2
+
+vaibhav 12 12 pune 10 489.0
+
+om 34 34 jalgaon 9 479.0
+
+yash 67 67 Aurangabad 9 467.0
+
+Diptesh 76 76 Dhule 10 495.0
+
+Harsh 39 39 Satara 11 481.0
+
+
+====================================================
+
+1. Add Records
+2. Display Records
+3. Clear All Records
+4. Search Records
+5. Delete Records
+6. Update Records 
+7. Exit
+
+Enter your choice : 4
+
+Enter an id of the student you want to search: 34
+Record found
+om 34 34 jalgaon 9 479.0
+
+
+====================================================
+
+1. Add Records
+2. Display Records
+3. Clear All Records
+4. Search Records
+5. Delete Records
+6. Update Records 
+7. Exit
+
+Enter your choice : 4
+
+Enter an id of the student you want to search: 66
+Record not found
+
+====================================================
+
+1. Add Records
+2. Display Records
+3. Clear All Records
+4. Search Records
+5. Delete Records
+6. Update Records 
+7. Exit
+
+Enter your choice : 5
+
+Enter the name of the student you want to delete: om
+Record found
+deleted successfully
+Renamed successfully
+
+====================================================
+
+1. Add Records
+2. Display Records
+3. Clear All Records
+4. Search Records
+5. Delete Records
+6. Update Records 
+7. Exit
+
+Enter your choice : 6
+
+Enter the name of the student you want to update: vaibhav
+Record found
+Enter updated marks: 500
+record updated successfully
+Renamed successfully
+
+====================================================
+
+1. Add Records
+2. Display Records
+3. Clear All Records
+4. Search Records
+5. Delete Records
+6. Update Records 
+7. Exit
+
+Enter your choice : 3
+
+
+All Records cleared successfully !
+
+====================================================
+
+1. Add Records
+2. Display Records
+3. Clear All Records
+4. Search Records
+5. Delete Records
+6. Update Records 
+7. Exit
+
+Enter your choice : 7
+
+
+====================================================
