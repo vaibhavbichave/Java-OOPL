@@ -1,0 +1,120 @@
+	==== MENU BAR ====
+
+	1.String 
+	2.Integer
+	3.integer array 
+	4.String Array
+	5.Check Function
+	6.Exit
+1
+Enter the String :: Madam
+Madam is Pallindrome
+======================================================
+
+	==== MENU BAR ====
+
+	1.String 
+	2.Integer
+	3.integer array 
+	4.String Array
+	5.Check Function
+	6.Exit
+1
+Enter the String :: Student
+Student is not Pallindrome
+======================================================
+
+	==== MENU BAR ====
+
+	1.String 
+	2.Integer
+	3.integer array 
+	4.String Array
+	5.Check Function
+	6.Exit
+2
+Enter the Integer :: 1234321
+1234321 is Pallindrome
+1234321 is Odd Number.
+1234321 is Not Prime Number
+======================================================
+
+	==== MENU BAR ====
+
+	1.String 
+	2.Integer
+	3.integer array 
+	4.String Array
+	5.Check Function
+	6.Exit
+2
+Enter the Integer :: 2
+2 is Pallindrome
+2 is Even Number.
+2 is Prime Number
+======================================================
+
+	==== MENU BAR ====
+
+	1.String 
+	2.Integer
+	3.integer array 
+	4.String Array
+	5.Check Function
+	6.Exit
+3
+Enter size of array:: 4
+Enter Array Elements :: 4 6 2 8
+Entered Array is :: '4' '6' '2' '8' 
+======================================================
+
+	==== MENU BAR ====
+
+	1.String 
+	2.Integer
+	3.integer array 
+	4.String Array
+	5.Check Function
+	6.Exit
+4
+Enter size of array:: 6
+Enter Array Elements :: ads xd gxdfh fgxdg gdc hfh
+Entered Array is :: 'ads' 'xd' 'gxdfh' 'fgxdg' 'gdc' 'hfh' 
+======================================================
+
+	==== MENU BAR ====
+
+	1.String 
+	2.Integer
+	3.integer array 
+	4.String Array
+	5.Check Function
+	6.Exit
+5
+Enter the String :: 2446
+We can perform Pallindrome , int Array , check Prime , EvenOdd Function.
+======================================================
+
+	==== MENU BAR ====
+
+	1.String 
+	2.Integer
+	3.integer array 
+	4.String Array
+	5.Check Function
+	6.Exit
+5
+Enter the String :: parent
+We can perform Pallindrome , String Array.
+======================================================
+
+	==== MENU BAR ====
+
+	1.String 
+	2.Integer
+	3.integer array 
+	4.String Array
+	5.Check Function
+	6.Exit
+6
+======================================================
