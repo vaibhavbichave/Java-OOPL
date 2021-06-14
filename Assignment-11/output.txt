@@ -1,0 +1,62 @@
+ 
+**** SHOPING CART ****
+1.Credit Card 
+2.PayPal 
+3.BitCoin 
+4.Exit 
+Enter the Choice ::1
+----------------------------------------------------------
+Enter amount tobe Tranfer :: 350
+----------------------------------------------------------
+----------------------------------------------------------
+	Card holder Name :: Vaibhav
+	Card Number :: 785423695628
+	Card Expire Date :: 12/24
+----------------------------------------------------------
+----------------------------------------------------------
+Paying through CreditCard payment: Charging $350
+----------------------------------------------------------
+**** SHOPING CART ****
+1.Credit Card 
+2.PayPal 
+3.BitCoin 
+4.Exit 
+Enter the Choice ::2
+----------------------------------------------------------
+Enter amount tobe Tranfer :: 5000
+----------------------------------------------------------
+Checking Internet Connection........
+----------------------------------------------------------
+Paying through PayPal payment: Charging $5000
+----------------------------------------------------------
+**** SHOPING CART ****
+1.Credit Card 
+2.PayPal 
+3.BitCoin 
+4.Exit 
+Enter the Choice ::3
+----------------------------------------------------------
+Enter amount tobe Tranfer :: 10000
+----------------------------------------------------------
+Enter Transaction 'Input Address' :: 5342.9324.2671.1354
+----------------------------------------------------------
+Paying through BitCoin payment: Charging $10000
+----------------------------------------------------------
+**** SHOPING CART ****
+1.Credit Card 
+2.PayPal 
+3.BitCoin 
+4.Exit 
+Enter the Choice ::5
+----------------------------------------------------------
+Invalid Payment Mode !!!
+----------------------------------------------------------
+**** SHOPING CART ****
+1.Credit Card 
+2.PayPal 
+3.BitCoin 
+4.Exit 
+Enter the Choice ::4
+----------------------------------------------------------
+Thank you For Shopping !!!! 
+----------------------------------------------------------
