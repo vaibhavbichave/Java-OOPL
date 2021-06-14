@@ -1,0 +1,223 @@
+	CHOOSE ONE OF THE FOLLOWING....
+
+	1.BOOK 			2.MAGAZINE
+
+	3.TOTAL SALE AMOUNT	4.REVENUE OF PUBLICATION
+
+
+Choice::1
+
+		MENU   FOR   BOOK
+	1.read book 		2.display 
+	3.sale copies 		4.order copies
+	Choice::1
+==============================================================================
+
+enter title : Geeta
+enter price:  450
+enter copies: 5
+enter author book: Vaibhav
+==============================================================================
+
+Do you want to continue with book section[1/0]
+	1.YES 		0.NO
+	Choice::1
+
+		MENU   FOR   BOOK
+	1.read book 		2.display 
+	3.sale copies 		4.order copies
+	Choice::2
+==============================================================================
+
+title 	price 	copy 	author
+Geeta	450	5	Vaibhav
+==============================================================================
+
+Do you want to continue with book section[1/0]
+	1.YES 		0.NO
+	Choice::1
+
+		MENU   FOR   BOOK
+	1.read book 		2.display 
+	3.sale copies 		4.order copies
+	Choice::3
+==============================================================================
+
+HOW MANY COPIES YOU(for customer) WANT : 10
+     INSUFFICIENT STOCK!!!!!!!!!
+==============================================================================
+
+Do you want to continue with book section[1/0]
+	1.YES 		0.NO
+	Choice::1
+
+		MENU   FOR   BOOK
+	1.read book 		2.display 
+	3.sale copies 		4.order copies
+	Choice::3
+==============================================================================
+
+HOW MANY COPIES YOU(for customer) WANT : 4
+	YOU PURCHASED  4  COPIES 
+	YOU HAVE TO PAY :  1800
+==============================================================================
+
+Do you want to continue with book section[1/0]
+	1.YES 		0.NO
+	Choice::1
+
+		MENU   FOR   BOOK
+	1.read book 		2.display 
+	3.sale copies 		4.order copies
+	Choice::4
+==============================================================================
+
+ENTER COPIES WANT TO ORDER(for shop): 11
+
+	ORDER SUCESSFUL....
+	COPIES AVAILABLE : 12
+==============================================================================
+
+Do you want to continue with book section[1/0]
+	1.YES 		0.NO
+	Choice::0
+DO YOU WANT TO CONTINUE WITH PUBLICATION???
+	1.CONTINUE 	0.TERMINATE
+1
+
+
+	CHOOSE ONE OF THE FOLLOWING....
+
+	1.BOOK 			2.MAGAZINE
+
+	3.TOTAL SALE AMOUNT	4.REVENUE OF PUBLICATION
+
+
+Choice::2
+
+		MENU   FOR   MAGAZINE...
+
+	1.READ  		2.DISPLAY 
+	3.SALE MAGAZINE COPIES 	4.RECEIVE NEW ISSUE
+
+
+	Choice::1
+==============================================================================
+
+enter title : TimeOfIndia
+enter price:  15
+enter copies: 20
+Enter THe Current Issue Date [dd/mm/yyyy]01052020
+==============================================================================
+
+DO YOU WANT TO CONTINUE WITH MAGAZINE SECTION [1/0]
+	1.YES	0.NO
+	Choice::1
+
+		MENU   FOR   MAGAZINE...
+
+	1.READ  		2.DISPLAY 
+	3.SALE MAGAZINE COPIES 	4.RECEIVE NEW ISSUE
+
+
+	Choice::
+2
+==============================================================================
+
+title 	price 	copy 	date
+TimeOfIndia	15	20	01052020
+==============================================================================
+
+DO YOU WANT TO CONTINUE WITH MAGAZINE SECTION [1/0]
+	1.YES	0.NO
+	Choice::1
+
+		MENU   FOR   MAGAZINE...
+
+	1.READ  		2.DISPLAY 
+	3.SALE MAGAZINE COPIES 	4.RECEIVE NEW ISSUE
+
+
+	Choice::3
+==============================================================================
+
+HOW MANY COPIES YOU WANT(customer)??  
+15
+	YOU PURCHASED  15  COPIES 
+	YOU HAVE TO PAY :  225
+==============================================================================
+
+DO YOU WANT TO CONTINUE WITH MAGAZINE SECTION [1/0]
+	1.YES	0.NO
+	Choice::1
+
+		MENU   FOR   MAGAZINE...
+
+	1.READ  		2.DISPLAY 
+	3.SALE MAGAZINE COPIES 	4.RECEIVE NEW ISSUE
+
+
+	Choice::4
+==============================================================================
+
+ENTER THE NEW ISSUE DATE [dd/mm/yyyy]: 
+02072020
+ENTER NEW COPIES ORDERED: 
+5
+	THE MAGAZINE TimeOfIndia 
+	 WITH ISSUE DATE 02072020AVAILABLE
+==============================================================================
+
+DO YOU WANT TO CONTINUE WITH MAGAZINE SECTION [1/0]
+	1.YES	0.NO
+	Choice::1
+
+		MENU   FOR   MAGAZINE...
+
+	1.READ  		2.DISPLAY 
+	3.SALE MAGAZINE COPIES 	4.RECEIVE NEW ISSUE
+
+
+	Choice::2
+==============================================================================
+
+title 	price 	copy 	date
+TimeOfIndia	15	5	02072020
+==============================================================================
+
+DO YOU WANT TO CONTINUE WITH MAGAZINE SECTION [1/0]
+	1.YES	0.NO
+	Choice::0
+DO YOU WANT TO CONTINUE WITH PUBLICATION???
+	1.CONTINUE 	0.TERMINATE
+1
+
+
+	CHOOSE ONE OF THE FOLLOWING....
+
+	1.BOOK 			2.MAGAZINE
+
+	3.TOTAL SALE AMOUNT	4.REVENUE OF PUBLICATION
+
+
+Choice::3
+
+	TOTAL SALE AMOUNT IS(to be paid by customer)  = 2025  
+DO YOU WANT TO CONTINUE WITH PUBLICATION???
+	1.CONTINUE 	0.TERMINATE
+1
+
+
+	CHOOSE ONE OF THE FOLLOWING....
+
+	1.BOOK 			2.MAGAZINE
+
+	3.TOTAL SALE AMOUNT	4.REVENUE OF PUBLICATION
+
+
+Choice::4
+
+	TOTAL REVENUE OF PUBLICATION IS  :  5475
+DO YOU WANT TO CONTINUE WITH PUBLICATION???
+	1.CONTINUE 	0.TERMINATE
+0
