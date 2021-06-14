@@ -1,0 +1,103 @@
+	1.Create Account
+	2.Display Account
+	3.Check Balance
+	4.Deposit Amount
+	5.Withdraw Amount
+	6.Exit
+Enter your choice: 1
+
+
+Enter your name: Vaibhav
+Enter your age: 17
+Minimum age should be 18 to create an account.
+Please enter valid age: 19
+Enter your account Id: 208574521
+Enter your account type: Saving
+Enter balance: 2400
+Enter minimum balance: 500
+=================================================
+
+	1.Create Account
+	2.Display Account
+	3.Check Balance
+	4.Deposit Amount
+	5.Withdraw Amount
+	6.Exit
+Enter your choice: 2
+
+Welcome Vaibhav! Following are your account details:
+Age :19
+Account Id: 208574521
+Account Type: Saving
+Balance: 2400.0
+Minimum balance: 500.0
+=================================================
+
+	1.Create Account
+	2.Display Account
+	3.Check Balance
+	4.Deposit Amount
+	5.Withdraw Amount
+	6.Exit
+Enter your choice: 3
+
+Balance is: 2400.0
+=================================================
+
+	1.Create Account
+	2.Display Account
+	3.Check Balance
+	4.Deposit Amount
+	5.Withdraw Amount
+	6.Exit
+Enter your choice: 4
+
+Enter the amount you want to deposit: 3600
+Amount deposited successfully. Balance is: 6000.0
+=================================================
+
+	1.Create Account
+	2.Display Account
+	3.Check Balance
+	4.Deposit Amount
+	5.Withdraw Amount
+	6.Exit
+Enter your choice: 5
+
+Enter the amount you want to withdraw: 6000
+Sorry!!! Not enough balance
+=================================================
+
+	
+	1.Create Account
+	2.Display Account
+	3.Check Balance
+	4.Deposit Amount
+	5.Withdraw Amount
+	6.Exit
+Enter your choice: 5
+
+Enter the amount you want to withdraw: 5000
+Withdrawal successful. Balance is: 1000.0
+=================================================
+
+	1.Create Account
+	2.Display Account
+	3.Check Balance
+	4.Deposit Amount
+	5.Withdraw Amount
+	6.Exit
+Enter your choice: 7
+
+INVALID INPUT !!
+=================================================
+
+	1.Create Account
+	2.Display Account
+	3.Check Balance
+	4.Deposit Amount
+	5.Withdraw Amount
+	6.Exit
+Enter your choice: 6
+
+=================================================
