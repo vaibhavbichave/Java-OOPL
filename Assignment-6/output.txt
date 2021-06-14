@@ -1,0 +1,49 @@
+Enter the Choice which you want to check type of error 
+		1] Arithmaticexception	2] ArrayOutOfBound
+		3] NumberFormat		4] Exit
+1
+Enter Two Numbers ::
+4
+0
+		Cannot Divide by Zero 
+		Enter Valid Denominator....
+
+Enter Two Numbers ::
+5
+2
+Division is 2.0
+==========================================================
+
+Enter the Choice which you want to check type of error 
+		1] Arithmaticexception	2] ArrayOutOfBound
+		3] NumberFormat		4] Exit
+2
+
+Enter the Index No. of Element which you want to print ::56
+		Invalid Index try again...
+
+
+Enter the Index No. of Element which you want to print ::2
+5 is present at given index
+==========================================================
+
+Enter the Choice which you want to check type of error 
+		1] Arithmaticexception	2] ArrayOutOfBound
+		3] NumberFormat		4] Exit
+3
+Enter first number:: 5
+Enter Second number:: jk
+		Numbers You have Enter are not Integers 
+		Please try again...
+
+Enter first number:: 6
+Enter Second number:: 2
+
+Entered Numbers are integers::6 , 2
+==========================================================
+
+Enter the Choice which you want to check type of error 
+		1] Arithmaticexception	2] ArrayOutOfBound
+		3] NumberFormat		4] Exit
+4
+==========================================================
