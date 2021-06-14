@@ -1,0 +1,39 @@
+	  MENU
+	1.Triangle
+	2.Rectangle 
+	3.Exit
+	Choice ::1
+
+ENTER BASE OF TRIANGLE:  5.2
+ENTER HEIGHT OF TRIANGLE:  6.6
+AREA OF TRIANGLE IS  :  17.16
+=======================================================
+
+	  MENU
+	1.Triangle
+	2.Rectangle 
+	3.Exit
+	Choice ::2
+
+ENTER  FIRST  DIMENSION :  2.0
+ENTER SECOND  DIMENSION :  9.7
+AREA OF RECTANGLE IS  :  19.4
+=======================================================
+
+	  MENU
+	1.Triangle
+	2.Rectangle 
+	3.Exit
+	Choice ::5
+
+  INVALID  INPUT  
+=======================================================
+
+	  MENU
+	1.Triangle
+	2.Rectangle 
+	3.Exit
+	Choice ::3
+
+   EXITED SUCCESSFULLY  
+=======================================================
