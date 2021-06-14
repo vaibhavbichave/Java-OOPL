@@ -1,0 +1,307 @@
+======================================================================
+  SELECT VEHICLE  
+	1.BICYCLE 
+	2.CAR  
+	3.BIKE 
+	4.Exit 
+Choice::1
+======================================================================
+	Bicycle started successfully
+ 
+======================================================================
+ 	Press 1. Speed Up 
+	Press 2. Change gear 
+	Press 3. Apply Brakes  
+	Press 4. Display Vehicle Status 
+	Press 5. change Vehicle /Exit 
+Choice::1
+======================================================================
+
+	Bicycles speed increased 
+	 current speed is 15
+======================================================================
+ 	Press 1. Speed Up 
+	Press 2. Change gear 
+	Press 3. Apply Brakes  
+	Press 4. Display Vehicle Status 
+	Press 5. change Vehicle /Exit 
+Choice::1
+======================================================================
+
+	Bicycles speed increased 
+	 current speed is 20
+======================================================================
+ 	Press 1. Speed Up 
+	Press 2. Change gear 
+	Press 3. Apply Brakes  
+	Press 4. Display Vehicle Status 
+	Press 5. change Vehicle /Exit 
+Choice::2
+======================================================================
+which gear you want?   3
+	Gear changed Successfully 
+	 Current Gear Is 3
+======================================================================
+ 	Press 1. Speed Up 
+	Press 2. Change gear 
+	Press 3. Apply Brakes  
+	Press 4. Display Vehicle Status 
+	Press 5. change Vehicle /Exit 
+Choice::3
+======================================================================
+1. DECREASE SPEED
+2. STOP BICYCLE
+
+1
+Speed Reduced Successfull 
+	Current speed is 15 Kmhr 
+
+======================================================================
+ 	Press 1. Speed Up 
+	Press 2. Change gear 
+	Press 3. Apply Brakes  
+	Press 4. Display Vehicle Status 
+	Press 5. change Vehicle /Exit 
+Choice::3
+======================================================================
+1. DECREASE SPEED
+2. STOP BICYCLE
+
+1
+Speed Reduced Successfull 
+	Current speed is 10 Kmhr 
+
+======================================================================
+ 	Press 1. Speed Up 
+	Press 2. Change gear 
+	Press 3. Apply Brakes  
+	Press 4. Display Vehicle Status 
+	Press 5. change Vehicle /Exit 
+Choice::3
+======================================================================
+1. DECREASE SPEED
+2. STOP BICYCLE
+
+2
+Bicycle stopped Successfully
+ 
+======================================================================
+ 	Press 1. Speed Up 
+	Press 2. Change gear 
+	Press 3. Apply Brakes  
+	Press 4. Display Vehicle Status 
+	Press 5. change Vehicle /Exit 
+Choice::4
+======================================================================
+YOUR  BICYCLE'S SPEED IS 0 Kmhr AND GEAR IS 0
+======================================================================
+ 	Press 1. Speed Up 
+	Press 2. Change gear 
+	Press 3. Apply Brakes  
+	Press 4. Display Vehicle Status 
+	Press 5. change Vehicle /Exit 
+Choice::5
+======================================================================
+  SELECT VEHICLE  
+	1.BICYCLE 
+	2.CAR  
+	3.BIKE 
+	4.Exit 
+Choice::2
+======================================================================
+	Car started successfully
+ 
+======================================================================
+ 	Press 1. Speed Up 
+	Press 2. Change gear 
+	Press 3. Apply Brakes  
+	Press 4. Display Vehicle Status 
+	Press 5. change Vehicle /Exit 
+Choice::1
+======================================================================
+Cars speed increased 
+	 Current speed is 30 Kmhr
+
+======================================================================
+ 	Press 1. Speed Up 
+	Press 2. Change gear 
+	Press 3. Apply Brakes  
+	Press 4. Display Vehicle Status 
+	Press 5. change Vehicle /Exit 
+Choice::1
+======================================================================
+Cars speed increased 
+	 Current speed is 50 Kmhr
+
+======================================================================
+ 	Press 1. Speed Up 
+	Press 2. Change gear 
+	Press 3. Apply Brakes  
+	Press 4. Display Vehicle Status 
+	Press 5. change Vehicle /Exit 
+Choice::2
+======================================================================
+which gear you want?   8
+ Gear Out Of Range 
+======================================================================
+ 	Press 1. Speed Up 
+	Press 2. Change gear 
+	Press 3. Apply Brakes  
+	Press 4. Display Vehicle Status 
+	Press 5. change Vehicle /Exit 
+Choice::2
+======================================================================
+which gear you want?   4
+	Gear changed Successfully 
+	 Current Gear is 4
+======================================================================
+ 	Press 1. Speed Up 
+	Press 2. Change gear 
+	Press 3. Apply Brakes  
+	Press 4. Display Vehicle Status 
+	Press 5. change Vehicle /Exit 
+Choice::3
+======================================================================
+1. TO DECREASE SPEED
+2. TO STOP CAR
+
+1
+Speed Reduced Successfully 
+	Current Speed Is 30 kmhr
+
+======================================================================
+ 	Press 1. Speed Up 
+	Press 2. Change gear 
+	Press 3. Apply Brakes  
+	Press 4. Display Vehicle Status 
+	Press 5. change Vehicle /Exit 
+Choice::3
+======================================================================
+1. TO DECREASE SPEED
+2. TO STOP CAR
+
+2
+Car stopped Successfully 
+
+======================================================================
+ 	Press 1. Speed Up 
+	Press 2. Change gear 
+	Press 3. Apply Brakes  
+	Press 4. Display Vehicle Status 
+	Press 5. change Vehicle /Exit 
+Choice::4
+======================================================================
+YOUR  CAR'S SPEED IS 0 Kmhr AND GEAR IS 0
+
+======================================================================
+ 	Press 1. Speed Up 
+	Press 2. Change gear 
+	Press 3. Apply Brakes  
+	Press 4. Display Vehicle Status 
+	Press 5. change Vehicle /Exit 
+Choice::5
+======================================================================
+  SELECT VEHICLE  
+	1.BICYCLE 
+	2.CAR  
+	3.BIKE 
+	4.Exit 
+Choice::3
+======================================================================
+	Bike started successfully 
+
+======================================================================
+ 	Press 1. Speed Up 
+	Press 2. Change gear 
+	Press 3. Apply Brakes  
+	Press 4. Display Vehicle Status 
+	Press 5. change Vehicle /Exit 
+Choice::1
+======================================================================
+Bike's speed increased 
+	 Current speed is 30 Kmhr.
+
+======================================================================
+ 	Press 1. Speed Up 
+	Press 2. Change gear 
+	Press 3. Apply Brakes  
+	Press 4. Display Vehicle Status 
+	Press 5. change Vehicle /Exit 
+Choice::2
+======================================================================
+which gear you want?   6
+Gear out of range 
+
+======================================================================
+ 	Press 1. Speed Up 
+	Press 2. Change gear 
+	Press 3. Apply Brakes  
+	Press 4. Display Vehicle Status 
+	Press 5. change Vehicle /Exit 
+Choice::2
+======================================================================
+which gear you want?   3
+	Gear changed Successfully 
+	 Current Gear IS 3
+======================================================================
+ 	Press 1. Speed Up 
+	Press 2. Change gear 
+	Press 3. Apply Brakes  
+	Press 4. Display Vehicle Status 
+	Press 5. change Vehicle /Exit 
+Choice::3
+======================================================================
+1. TO DECREASE SPEED
+2. TO STOP bike
+
+1
+Speed Reduced Successfull   
+	Current speed is 10kmhr
+
+======================================================================
+ 	Press 1. Speed Up 
+	Press 2. Change gear 
+	Press 3. Apply Brakes  
+	Press 4. Display Vehicle Status 
+	Press 5. change Vehicle /Exit 
+Choice::4
+======================================================================
+YOUR  BIKE'S SPEED IS 10 Kmhr AND GEAR IS 3
+
+======================================================================
+ 	Press 1. Speed Up 
+	Press 2. Change gear 
+	Press 3. Apply Brakes  
+	Press 4. Display Vehicle Status 
+	Press 5. change Vehicle /Exit 
+Choice::3
+======================================================================
+1. TO DECREASE SPEED
+2. TO STOP bike
+2
+Bike stopped Successfully 
+
+======================================================================
+ 	Press 1. Speed Up 
+	Press 2. Change gear 
+	Press 3. Apply Brakes  
+	Press 4. Display Vehicle Status 
+	Press 5. change Vehicle /Exit 
+Choice::5
+======================================================================
+  SELECT VEHICLE  
+	1.BICYCLE 
+	2.CAR  
+	3.BIKE 
+	4.Exit 
+Choice::6
+======================================================================
+INVALID INPUT
+======================================================================
+  SELECT VEHICLE  
+	1.BICYCLE 
+	2.CAR  
+	3.BIKE 
+	4.Exit 
+Choice::4
+======================================================================
