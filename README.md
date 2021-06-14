@@ -1,8 +1,8 @@
 # Java-OOPL
 
-##Object Oriented Programming Assignments of SPPU Second Year IT Syllabus (2019 pattern)
+## Object Oriented Programming Assignments of SPPU Second Year IT Syllabus (2019 pattern)
 
-###Assignment and Problem Statement
+### Assignment and Problem Statement
 |Assignment|Problem Statement|
 |---|---|
 |[Assignment-1](https://github.com/VaibhavBichave/Java-OOPL/tree/main/Assignment-1)|Design a class ‘Complex ‘with data members for real and imaginary part. Provide default and Parameterized constructors. Write a program to perform arithmetic operations of two complex numbers.|
@@ -13,11 +13,11 @@
 |[Assignment-6](https://github.com/VaibhavBichave/Java-OOPL/tree/main/Assignment-6)|Implement a program to handle Arithmetic exception, Array Index Out of Bounds. The user enters two numbers Num1 and Num2. The division of Num1 and Num2 is displayed. If Num1 and Num2 are not integers, the program would throw a Number Format Exception. If Num2 were zero, the program would throw an Arithmetic Exception. Display the exception.|
 |[Assignment-7](https://github.com/VaibhavBichave/Java-OOPL/tree/main/Assignment-7)|Implement a generic program using any collection class to count the number of elements in a collection that have a specific property such as even numbers, odd number, prime number and palindromes.|
 |[Assignment-8](https://github.com/VaibhavBichave/Java-OOPL/tree/main/Assignment-8)|Implement a program for maintaining a database of student records using Files. Student has Student_id,name, Roll_no, Class, marks and address. Display the data for few students.
-  1. Create Database
-  2. Display Database
-  3. Delete Records
-  4. Update Record
-  5. Search Record|
+  1) Create Database
+  2) Display Database
+  3) Delete Records
+  4) Update Record
+  5) Search Record|
 |[Assignment-9](https://github.com/VaibhavBichave/Java-OOPL/tree/main/Assignment-9)|Using concepts of Object-Oriented programming develop solution for any one application
 1) Banking system having following operations :
 1. Create an account 2. Deposit money 3. Withdraw money 4. Honor daily withdrawal limit
